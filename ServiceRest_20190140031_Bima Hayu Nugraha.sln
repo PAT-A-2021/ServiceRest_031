@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceRest_20190140031_Bima Hayu Nugraha", "ServiceRest_20190140031_Bima Hayu Nugraha\ServiceRest_20190140031_Bima Hayu Nugraha.csproj", "{84EFDF17-09A7-4F4D-834F-503667CF197C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84EFDF17-09A7-4F4D-834F-503667CF197C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EFDF17-09A7-4F4D-834F-503667CF197C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EFDF17-09A7-4F4D-834F-503667CF197C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EFDF17-09A7-4F4D-834F-503667CF197C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62A46131-64B8-4101-A109-3D4B69835216}
+	EndGlobalSection
+EndGlobal
